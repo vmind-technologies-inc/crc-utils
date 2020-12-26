@@ -1,2 +1,2 @@
-# crc-utils
-crcutils is a library for computing cyclic redundancy check (CRC) codes.
+# crc64
+This code computes 64-bit cyclic redundancy check (CRC) digests.
